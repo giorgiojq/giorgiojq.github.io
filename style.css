@@ -1,0 +1,45 @@
+
+.ffc {
+    text-decoration: none;
+    color: #ffc203;
+}
+
+.footext {
+   font-size: 10px; 
+}
+
+.hedd {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.dids {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: darkgray;
+    font-family: 'Titillium Web', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.tp {
+    font-size 10;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.didsx {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #ffc203;
+    font-family: 'Titillium Web', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center; 
+}
